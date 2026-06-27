@@ -37,5 +37,5 @@ The complete system combines these stages to demonstrate the full PCM transmitte
 ![Full Circuit Schematic](assets/full_ckt.png)  
 *Figure: Complete schematic diagram of the PCM transmitter chain.*
 
-![Physical Hardware](assets/hardware.png)  
+![Physical Hardware](assets/hardware.jpg)  
 *Figure: Final hardware prototype showcasing the integrated PCM components.*
