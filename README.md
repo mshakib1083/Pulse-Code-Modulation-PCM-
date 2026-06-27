@@ -39,11 +39,3 @@ The complete system combines these stages to demonstrate the full PCM transmitte
 
 ![Physical Hardware](assets/hardware.png)  
 *Figure: Final hardware prototype showcasing the integrated PCM components.*
-
-## 📈 Results & Future Enhancements
-* **Performance:** The project successfully demonstrated 3-bit quantization.
-* **Line Coding:** Implemented NRZ-L line coding for the transmission stream.
-* **Future Work:**
-    * **Advanced Coding:** Implementation of techniques like NRZ-M, Manchester, and Differential Manchester coding.
-    * **Precision:** Upgrading to a higher-bit quantizer to increase resolution and decrease quantization error.
-    * **Demodulation:** Extending the project scope to implement Pulse Code Demodulation.
